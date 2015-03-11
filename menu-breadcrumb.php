@@ -5,7 +5,7 @@
  * @package           Menu_Breadcrumb
  *
  * @menu-breadcrumb
- * Plugin Name:       Menu Breadcrumb
+ * Plugin Name:       Menu Breadcrumb (do not update, pull requests pending)
  * Plugin URI:        https://github.com/jchristopher/menu-breadcrumb
  * Description:       Generate a breadcrumb trail from a WordPress Menu
  * Version:           1.0.2
